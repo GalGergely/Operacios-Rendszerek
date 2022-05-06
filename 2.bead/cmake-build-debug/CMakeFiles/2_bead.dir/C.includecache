@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Egyetem/Programok/Operacios-Rendszerek/2.bead/main.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+
