@@ -1,6 +1,3 @@
-Gergo
-2
-2
 Kitti
 2
 2
@@ -22,3 +19,9 @@ Anya nagyon kicsi
 Zsombor
 5
 11
+Benedek Elek
+5
+7
+Mesi
+2
+2

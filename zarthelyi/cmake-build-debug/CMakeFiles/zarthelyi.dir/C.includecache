@@ -6,19 +6,33 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Egyetem/Programok/Operacios-Rendszerek/2.bead/main.c
+/mnt/c/Egyetem/Programok/Operacios-Rendszerek/zarthelyi/main.c
 stdio.h
--
-stdbool.h
 -
 stdlib.h
 -
-string.h
--
 unistd.h
+-
+sys/wait.h
+-
+sys/msg.h
+-
+errno.h
+-
+string.h
 -
 time.h
 -
-wait.h
+semaphore.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
 -
 

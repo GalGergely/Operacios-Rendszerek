@@ -1,0 +1,3 @@
+/mnt/c/Egyetem/Programok/Operacios-Rendszerek/namedPipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Egyetem/Programok/Operacios-Rendszerek/namedPipe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Egyetem/Programok/Operacios-Rendszerek/namedPipe/cmake-build-debug/CMakeFiles/namedPipe.dir
